@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473332798 source:c:\users\pomelo\desktop\fran\tp's\calculadora_tp1\calculadora_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1473332511 source:c:\users\pomelo\desktop\fran\tp's\calculadora_tp1\calculadora_tp1\lib.c
+
+1473332729 c:\users\pomelo\desktop\fran\tp's\calculadora_tp1\calculadora_tp1\lib.h
+
