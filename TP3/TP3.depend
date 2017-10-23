@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496332561 source:c:\users\pomelo\desktop\fran\tp's\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
